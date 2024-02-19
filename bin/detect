@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "ImageMagick"
+echo "Custom ImageMagick & Imagick"
 exit 0

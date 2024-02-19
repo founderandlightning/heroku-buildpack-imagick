@@ -1,4 +1,5 @@
 libde265-dev
 libheif-dev
+librsvg2-dev
 inkscape
 :repo:deb http://ppa.launchpad.net/strukturag/libheif/ubuntu xenial main

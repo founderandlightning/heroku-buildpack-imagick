@@ -6,5 +6,7 @@ This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) fo
 Set the version of ImageMagick using the IMAGE_MAGICK_VERSION env var in your environment.
 Set the version of Imagick using the IMAGICK_VERSION env var in your environment.
 
+**Set up this buildpack after the PHP one!**
+
 Run locally:
 ```sudo STACK=heroku-18 bin/compile /tmp/build /tmp/cache```
